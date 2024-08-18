@@ -1,4 +1,4 @@
-# HTML Tags - Quick Overview 📄
+# Interesting HTML Tags - Quick Overview 📄
 
 ### [🇷🇸 | Српски](README.md)
 
