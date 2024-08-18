@@ -1,6 +1,6 @@
 # HTML Tags - Quick Overview 📄
 
-[🇷🇸 | Српски](README.md)
+### [🇷🇸 | Српски](README.md)
 
 This README provides a brief description of the following HTML tags:
 
